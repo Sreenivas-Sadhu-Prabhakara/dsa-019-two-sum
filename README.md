@@ -12,6 +12,13 @@ Walk the array once, building a map from value to index. Before inserting the cu
 
 **Complexity:** O(n) time, O(n) space.
 
+## Visual walkthrough
+
+Read the picture top to bottom — each numbered frame is one moment of the algorithm
+running on this repo's test example.
+
+![Step-by-step visual walkthrough](viz.svg)
+
 ## Run
 
     go test ./...   # verify
